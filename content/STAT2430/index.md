@@ -1,5 +1,5 @@
 ---
-title: Welcome to Statistics
+title: Welcome to Statistics For Engineering
 ---
 
 Welcome to Stat2430! Here is a collection of markdown notes to accompany the class!
