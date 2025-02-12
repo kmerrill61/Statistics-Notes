@@ -1,8 +1,8 @@
 ---
-title: Welcome to Applied Probability
+title: STAT2510
 ---
 
-Welcome to Stat2510! Here is a collection of markdown notes to accompany the class!
+Welcome to Applied Probability! Here is a collection of markdown notes to accompany the class!
 
 ## Chapter Notes
 

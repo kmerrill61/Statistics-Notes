@@ -1,8 +1,8 @@
 ---
-title: Welcome to Statistics For Engineering
+title: STAT2430
 ---
 
-Welcome to Stat2430! Here is a collection of markdown notes to accompany the class!
+Welcome to Statistics for engineering! Here is a collection of markdown notes to accompany the class!
 
 ## Class Notes
 
