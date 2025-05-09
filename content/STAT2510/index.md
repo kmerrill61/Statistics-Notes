@@ -6,38 +6,36 @@ Welcome to Applied Probability! Here is a collection of markdown notes to accomp
 
 ## Chapter Notes
 
-### Chapter 1 - Foundations
+### Unit 01
 
-- [[CH1/CH1 - DeMorgan's In Detail]]
-- [[CH1/CH1 - Randomness]]
+[[CH1 - DeMorgan's In Detail]]
+[[CH1 - Randomness]]
+[[CH2 Probability]]
+[[CH3 - Independent Events]]
+[[CH3 - Probability Rules]]
+[[CH5 - Bayes Theorem]]
 
-### Chapter 2 - Basic Probability
-
-- [[CH2/CH2 Probability]]
-
-### Chapter 3 - Probability Concepts
-
-- [[CH3/CH3 - Independent Events]]
-- [[CH3/CH3 - Probability Rules]]
-
-### Chapter 5 - Advanced Probability
-
-- [[CH5/CH5 - Bayes Theorem]]
-
-### Chapter 7 - Random Variables
-
-- [[CH7/CH7 - Discrete Random Variables]]
-
-### Chapter 9 - Distributions
-
-- [[CH9/CH9 - Calculate CDF from 1 variable and joint CDF]]
-- [[CH9/CH9 - Independence and Conditioning]]
-
-### Chapter 10 - Expected Values
-
-- [[CH10/CH10 - Expected Values of Discrete Random Variables]]
-
-## Key Terms and Concepts
+**Terms and Concepts**
 
 - [[Terms/Complement]]
 - [[Terms/Event]]
+
+### Unit 02
+
+[[CH7 - Discrete Random Variables]]
+[[CH9 - Calculate CDF from 1 variable and joint CDF]]
+[[CH9 - Independence and Conditioning]]
+[[CH10 - Expected Values of Discrete Random Variables]]
+[[CH12 - Expected Values Continued]]
+
+### Unit 03
+
+[[CH28 - Expected Values of Continuous Random Variables]]
+
+### Unit 04
+
+[[CH32 - Exponential Random Variables]]
+[[CH39 - Variance of Sums, Covariance, Correlations]]
+[[CH40 - Conditional Expectations]]
+[[CH43 - Moment Generating Functions]]
+[[Memoryless Property For Exponentials]]
